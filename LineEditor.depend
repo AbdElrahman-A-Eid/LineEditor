@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1637565649 source:e:\iti admission\ai track\3. opp using c++\projects\LineEditor\main.cpp
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+
